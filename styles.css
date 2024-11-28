@@ -1,0 +1,147 @@
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    color: rgba(69, 60, 81, 0.812);
+}
+
+.medel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:crimson;
+}
+.first{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.fund{
+display: flex;
+width: 100%;
+justify-content: left;
+align-items: start;
+
+
+
+}
+
+.chalo{
+
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 5px;
+
+
+
+}
+
+
+
+}
+/*chalo{ */
+
+    position: absolute;
+    
+    background: none;
+    border: none;
+    cursor: pointer;
+
+
+
+}
+.chalo{
+    font-size: 18px;
+    color: #333;    
+
+
+
+
+}
+
+
+
+/* .text1{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.text2{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.text3{
+    display: flex;
+    align-items: flex-start;
+    justify-content:center ;
+} */
+
+
+.set{
+    width: fit-content;
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;  
+    flex-wrap: wrap;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+
+    height: 40px;
+    font-size: larger;
+    align-items: right;
+    justify-content: right;
+    display: flex;
+    
+}
+.to{
+    
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+
+}
+.chalo{
+
+    background-color: aqua;
+}
+.button-text{
+    background-color: pink;
+}
+
+.faraz{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.hello{
+    width: 100%;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+
+.bell{
+    background-color: antiquewhite;
+}
