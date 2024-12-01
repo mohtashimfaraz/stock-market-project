@@ -69,21 +69,18 @@ border-radius: 120px;
 }
 
 .tell{
-height: 100px;
-width: 100px;
-background-color: aqua;
-display: flex;
-align-items: end;
-justify-content: end;
-
-
-
+/* height: 100%; */
+flex-grow: 1;
+width: 500px;
+background-color: khaki;
+border-radius: 25px;
 }
 
-
-
-
-
+.image-container{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
 
 
