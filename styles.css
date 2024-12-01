@@ -25,6 +25,7 @@ width: 100%;
 justify-content: left;
 align-items: start;
 border-radius: 120px;
+padding: 1px 20px 30px 40px;
 
 
 
@@ -74,6 +75,8 @@ flex-grow: 1;
 width: 500px;
 background-color: khaki;
 border-radius: 25px;
+border-style: solid;
+padding: 20px 20px 10px 20px;
 }
 
 .image-container{
