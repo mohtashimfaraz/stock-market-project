@@ -118,6 +118,7 @@ border-radius: 120px;
     align-items: center;
     justify-content: center;
     display: flex;
+    border-radius: 25px;
     
 
 }
